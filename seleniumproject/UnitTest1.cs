@@ -12,7 +12,7 @@ namespace seleniumproject
 
         }
         [TestMethod]
-        public void TestMethod2()
+        public void TestMethod1()
         {
         }
         [TestCleanup]
